@@ -56,8 +56,6 @@ Implementation of a multilayer perceptron (MLP) trained using backpropagation to
 
 ---
 
-## 🚀 Additional Assignments
-
 ### Lab 5 – Surface Defect Classification
 Six kinds of typical surface defects of the hot-rolled steel strip are collected:
 

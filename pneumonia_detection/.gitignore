@@ -180,3 +180,8 @@ cython_debug/
 .cursorignore
 .cursorindexingignoreMedMamba/
 \n# Ignore model weights\noutputs/weights/
+
+*.pt
+outputs/
+
+*.zip
